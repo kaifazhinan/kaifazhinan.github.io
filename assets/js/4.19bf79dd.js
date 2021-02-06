@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{351:function(n,t,e){"use strict";e.r(t);var i={name:"CopyRight"},s=e(42),l=Object(s.a)(i,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    此文章由 开发指南 版权所有。\n")])}),[],!1,null,null,null);t.default=l.exports}}]);
